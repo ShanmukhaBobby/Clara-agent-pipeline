@@ -1,0 +1,25 @@
+{
+  "account_id": "account1",
+  "company_name": "Green Valley Medical Clinic",
+  "business_hours": "8am to 6pm",
+  "office_address": "Chennai",
+  "services_supported": [
+    "services such as general consultation",
+    "pediatric care"
+  ],
+  "emergency_definition": [
+    "to visit the nearest emergency hospital.",
+    "after hours, only emergency medical situations should be handled."
+  ],
+  "emergency_routing_rules": [
+    "transferred",
+    "routed to the front desk scheduling team."
+  ],
+  "non_emergency_routing_rules": [],
+  "call_transfer_rules": [],
+  "integration_constraints": "",
+  "after_hours_flow_summary": "",
+  "office_hours_flow_summary": "",
+  "questions_or_unknowns": [],
+  "notes": "generated from demo call"
+}

@@ -1,0 +1,8 @@
+This is an onboarding update for Green Valley Medical Clinic in Chennai.
+
+Our clinic hours are now Monday to Saturday from 8AM to 7PM.
+
+We have added telemedicine consultations as a new service.
+
+Emergency calls should first be routed to the triage nurse
+before contacting the physician.

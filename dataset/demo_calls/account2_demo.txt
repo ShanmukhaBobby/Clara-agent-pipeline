@@ -1,0 +1,17 @@
+Hello this is Dr. Ravi from Sunrise Family Clinic located in Chennai.
+
+Our clinic operates Monday to Saturday from 9AM to 7PM.
+
+We provide family medicine services, diabetes care,
+blood pressure monitoring, and preventive health checkups.
+
+If a caller reports symptoms like severe chest pain,
+stroke symptoms, or loss of consciousness,
+the AI assistant must transfer the call immediately
+to the emergency doctor on duty.
+
+If the emergency doctor is unavailable,
+the caller must be advised to contact emergency services immediately.
+
+For general appointment bookings,
+the caller should be directed to the appointment desk.

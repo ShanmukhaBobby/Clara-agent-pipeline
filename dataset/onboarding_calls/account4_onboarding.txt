@@ -1,0 +1,7 @@
+Onboarding update for Apollo Neighborhood Clinic in Chennai.
+
+Clinic hours have changed to Monday to Sunday from 8AM to 9PM.
+
+We added telemedicine and online consultation services.
+
+Emergency calls should first be routed to the triage nurse.

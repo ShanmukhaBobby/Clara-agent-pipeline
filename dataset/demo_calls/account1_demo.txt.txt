@@ -1,0 +1,18 @@
+Hello this is Meenakshi from Green Valley Medical Clinic in Chennai.
+
+Our clinic operates Monday to Friday from 8AM to 6PM.
+
+We provide services such as general consultation, pediatric care,
+vaccinations, and diagnostic lab testing.
+
+If a patient reports severe chest pain, breathing difficulty,
+or uncontrolled bleeding, the call should immediately be transferred
+to the on-call physician.
+
+If the physician does not answer, the caller should be instructed
+to visit the nearest emergency hospital.
+
+For appointment bookings during office hours,
+the call should be routed to the front desk scheduling team.
+
+After hours, only emergency medical situations should be handled.
